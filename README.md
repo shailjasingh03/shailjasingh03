@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### About Me
+- 🔭 I’m currently working on Business Process
+- 🌱 I’m currently learning Software Importance in Startup ecosystem.
+- 👯 I’m looking to collaborate on software service.
+- 💬 Ask me about Any Kind Of IT or Software Services.
+- 📫 How to reach me: Twitter @shailjasingh003
 <!--
 **shailjasingh03/shailjasingh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
